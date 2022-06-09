@@ -1,2 +1,2 @@
 # Ini adalah tampilan Protofolio
-![Portofolio]( image\index.jpeg )
+![Portofolio]( image\index.jpg )
